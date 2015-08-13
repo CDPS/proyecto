@@ -1,0 +1,151 @@
+header {
+
+	margin: 0% 0%;
+	padding: 0;
+	height: 115px;
+	background: #0099FF;
+}
+
+header h1 { 
+
+	margin-top: 0;
+	padding-top: 25px;
+	text-align: center;
+	font-family: "Rockwell", serif;
+	font-size: 50px;
+}
+
+.contenido {
+	display: table;
+	width: 100%;
+}
+
+.navegacion {
+
+	display: table-column;
+	float: left;
+	width: 20%;
+	height: 800px;
+	margin: 0;
+	padding: 0% 0%;
+	border: solid;
+}
+
+.main {
+
+	display: table-column;
+	float: left;
+	width: 60%;
+	padding: 10px;
+}
+
+.login {
+
+	display: table-column;
+	float: left;
+	border: solid;
+	width: 17%;
+	height: 250px;
+	font-family: "Rockwell", serif;
+}
+
+.login p {
+
+	font-size: 20px;
+	padding-left: 15px; 
+}
+
+.login h3 {
+
+	padding-left: 15px; 
+	font-family: "Rockwell", serif;
+	font-size: 25px;
+}
+
+
+ul {
+
+	margin-top: 2px;
+	padding-left: 0px;
+}
+
+ul li {
+
+	display: block;
+	text-decoration: none;
+	padding: 5px;
+	border-left: 5px;
+	margin: 1px;
+	font-family: "Rockwell", serif;
+	font-size: 22px;
+	background: #5CBDFF;
+}
+
+section {
+
+	width: 50%;
+	height: 800px;
+	float: left;
+	border: solid;
+}
+
+section p {
+
+	font-family: "Rockwell", serif;
+}
+
+.login p input {
+
+	height: 20px;
+	font-family: "Rockwell", serif;
+	font-size: 20px;
+	width: 100px;
+	float: right;
+	margin-right: 25px; 
+}
+
+.login p button {
+
+	font-family: "Rockwell", serif;
+	font-size: 20px;
+	float: right;
+	margin-right: 25px;
+	margin-top: 10px;
+}
+
+.areaRegistro {
+
+	padding-left: 50px;
+}
+
+.areaRegistro h3 {
+
+	padding-left: 15px; 
+	font-family: "Rockwell", serif;
+	font-size: 25px;
+}
+
+.areaRegistro p {
+
+	
+	font-family: "Rockwell", serif;
+	font-size: 20px;
+	width: 350px;
+	height: 25px;
+}
+
+.areaRegistro p input {
+
+	height: 20px;
+	font-family: "Rockwell", serif;
+	font-size: 20px;
+	width: 150px;
+	float: right; 
+}
+
+.areaRegistro p button {
+
+	font-family: "Rockwell", serif;
+	font-size: 20px;
+	margin-top: 10px;
+}
