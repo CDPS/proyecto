@@ -7,7 +7,7 @@ class Home extends Controlador{
 
 	public function imprimir()
 	{
-		echo "hola mundo";
+		echo "hola mundo acabo de nacer :D ";
         print_r( $this->parametros);
 	}
 
